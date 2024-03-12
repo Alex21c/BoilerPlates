@@ -12,6 +12,9 @@
 .displayNone{
   display:none;
 }
+.smallCaps{
+  font-variant: small-caps;
+}
 html{
   font-size:16px;
   font-family: "Roboto", sans-serif;
