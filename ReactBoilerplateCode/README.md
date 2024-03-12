@@ -16,6 +16,7 @@ npm run start
 
 ## Tech. Stack Used:
 + [React](https://react.dev/)
++ [TailwindCSS](https://tailwindcss.com/)
 + [Google Fonts](https://fonts.google.com/)
 + [Font Awesome](https://fontawesome.com/icons/)
 
